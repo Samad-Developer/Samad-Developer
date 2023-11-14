@@ -1,5 +1,5 @@
-## <p align="center"> Welcome to Abdus Samad's GitHub Profile 👋 </p>
-## 👨‍💻 About Me
+# <p align="center"> Welcome to Abdus Samad's GitHub Profile 👋 </p>
+## About Me
 
 Greetings! I'm Abdus Samad, a passionate MERN stack web developer and aspiring data scientist. With over two years of hands-on experience crafting robust and scalable web applications, I recently graduated with a Bachelor's degree in Computer Science (2023). Currently, I'm on a learning journey in data science and Next.js.
 
