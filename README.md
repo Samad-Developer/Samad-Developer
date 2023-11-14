@@ -28,6 +28,7 @@ As a junior data scientist, I am dedicated to continuous learning. Actively expl
 Reach out for collaborations, discussions, or just to say hi! Open to connecting with fellow developers and data enthusiasts.
 
 - [LinkedIn](https://www.linkedin.com/in/abdussamad27/)
+- [Kaggle](https://www.kaggle.com/abdussamad27)
 - [Portfolio Website](https://65107a0acb64f60194b9fd88--jade-fairy-86a32a.netlify.app/)
 
 ## 🌟 Thank You for Visiting!
