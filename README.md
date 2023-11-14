@@ -9,17 +9,19 @@ Hi there! I'm Abdus Samad, a passionate MERN stack web developer and aspiring da
 
 Working on a dynamic Next.js project dashboard for a seamless user experience. Stay tuned for updates and exciting features!
 
-## 📫 Let's Connect!
+## Skills
+
+🛠️ **Web Development:** MERN Stack (MongoDB, Express.js, React, Node.js), Next.js
+
+📊 **Data Science:** Python, Pandas, NumPy, seaborn, plotly
+
+## 🤝 Let's Connect!
 
 Reach out for collaborations, discussions, or just to say hi! Open to connecting with fellow developers and data enthusiasts.
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abdussamad27/)
 - [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-orange)](https://www.kaggle.com/abdussamad27/)
 - [![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://65107a0acb64f60194b9fd88--jade-fairy-86a32a.netlify.app/)
-
-## GitHub Status
-
-[![Abdus Samad's GitHub Status](https://github-readme-stats.vercel.app/api?username=abdussamad27&show_icons=true&count_private=true&hide=issues,prs&theme=radical)](https://github.com/abdussamad27)
 
 ## 🌟 Thank You for Visiting!
 
