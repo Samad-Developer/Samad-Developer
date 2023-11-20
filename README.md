@@ -31,6 +31,3 @@
 <h2 align='center'>🌟 Thank You for Visiting!</h2>
 <p align="center">Appreciate your time and interest. Explore my repositories, and let's build something amazing together! If you find something interesting or have suggestions, feel free to create issues or pull requests.<br>Happy coding! 🚀</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samad-Developer&layout=compact&theme=radical" alt="Top Languages">
-</p>
