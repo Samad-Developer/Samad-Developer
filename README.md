@@ -4,12 +4,6 @@
 
 Hi there! I'm Abdus Samad, a passionate MERN stack web developer and aspiring data scientist. Graduated with a Bachelor's degree in Computer Science (2023), I'm on a journey to explore the realms of data science and Next.js.
 
-## Current Project
-
-### [![Next.js Project Dashboard](https://img.shields.io/badge/Next.js%20Project%20Dashboard-Working%20on-success)](https://nextjs-dashboard-psi-rouge.vercel.app/)
-
-Working on a dynamic Next.js project dashboard for a seamless user experience. Stay tuned for updates and exciting features!
-
 ## Skills
 
 🛠️ **Web Development:** MERN Stack (MongoDB, Express.js, React, Node.js), Next.js
