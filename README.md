@@ -6,11 +6,11 @@
 
 <h2 align='center'>Languages and Tools:</h2>
 <p align="center">
-  - ⚡ JavaScript | TypeScript<br>
-  - 🚀 React | Next.js<br>
-  - 🌐 HTML | CSS | SASS<br>
-  - 🛢️ MongoDB | MySQL<br>
-  - 🔧 VS Code | Git | GitHub
+  ⚡ JavaScript | TypeScript
+  🚀 React | Next.js
+  🌐 HTML | CSS | SASS
+  🛢️ MongoDB | MySQL
+  🔧 VS Code | Git | GitHub
 </p>
 
 <h2 align='center'>🤝 Let's Connect!</h2>
